@@ -1,2 +1,2 @@
 # Bug Bash File For Activity
-who goes first?
+Who goes first?
