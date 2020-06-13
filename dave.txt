@@ -2,26 +2,3 @@ hi
 there
 
 welcome to botany
-
-can you see me
-
-yes i can
-
-this is a test
-
-thanks for reading
-this is important
-
-please fix this
-
-is this fixed yet?
-
-yes it is
-
-```
-testing
-```
-
-new tests
-
-delete all tests
