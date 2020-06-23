@@ -1,2 +1,3 @@
 README
-plz
+
+contributing guide
