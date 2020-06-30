@@ -1,3 +1,1 @@
 README
-
-contributing guide
