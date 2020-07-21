@@ -2,5 +2,5 @@ README
 
 contributing guide
 
-test coverage
+more test coverage
 
