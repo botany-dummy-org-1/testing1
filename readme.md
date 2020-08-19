@@ -1,2 +1,7 @@
 README
-or dont
+
+contributing guide
+
+add some helpful docs
+
+improve test coverage
