@@ -1,3 +1,3 @@
 README
 
-contributing guide updates
+clean up documentation
