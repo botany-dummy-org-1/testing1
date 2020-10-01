@@ -1,3 +1,3 @@
 README
 
-submitting a PR
+contributing guide updates
