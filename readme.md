@@ -1,3 +1,3 @@
 README
 
-clean up documentation
+improve test coverage
