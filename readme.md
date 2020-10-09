@@ -1,3 +1,3 @@
 README
 
-improve test coverage
+remove legacy docs
