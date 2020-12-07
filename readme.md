@@ -1,7 +1,3 @@
 README
 
-improve test coverage
-
-additional tests
-
-clean up documentation
+clean up setup documentation
