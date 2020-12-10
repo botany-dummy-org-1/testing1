@@ -2,4 +2,4 @@ README
 
 clean up setup documentation
 
-remove old tests
+update local dev setup docs
