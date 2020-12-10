@@ -2,4 +2,4 @@ README
 
 clean up setup documentation
 
-more tests
+remove old tests
