@@ -7,3 +7,5 @@ update performance tests
 new unit test documentation
 
 refactor auth
+
+login page design updates
