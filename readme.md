@@ -9,3 +9,5 @@ new unit test documentation
 refactor auth
 
 login page design updates
+
+fix auth redirect error
