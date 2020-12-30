@@ -11,3 +11,5 @@ refactor auth
 login page design updates
 
 fix auth redirect error
+
+new TOS page
