@@ -13,3 +13,5 @@ login page design updates
 fix auth redirect error
 
 new TOS page
+
+add tests for new auth redirect
