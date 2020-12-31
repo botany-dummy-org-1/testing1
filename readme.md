@@ -15,3 +15,5 @@ fix auth redirect error
 new TOS page
 
 new mention handler tests
+
+add tests for new auth redirect
