@@ -25,3 +25,5 @@ fix font size on home page
 new favicon
 
 dockerfile optimization
+
+additional dockerfile cleanup
