@@ -23,3 +23,5 @@ database migration for team realationships
 fix font size on home page
 
 new favicon
+
+dockerfile optimization
