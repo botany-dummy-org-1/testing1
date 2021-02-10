@@ -27,3 +27,5 @@ new favicon
 dockerfile optimization
 
 additional dockerfile cleanup
+
+migration to drop legacy tables from db
