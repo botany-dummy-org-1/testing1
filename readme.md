@@ -33,3 +33,5 @@ migration to drop legacy tables from db
 performance updates
 
 add additional user config options
+
+consistent ordering of user states
