@@ -31,3 +31,5 @@ additional dockerfile cleanup
 migration to drop legacy tables from db
 
 performance updates
+
+add additional user config options
