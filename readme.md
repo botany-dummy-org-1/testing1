@@ -39,3 +39,5 @@ consistent ordering of user states
 cleanup documentation in README file
 
 update tests for new email sending flow
+
+use new logo
