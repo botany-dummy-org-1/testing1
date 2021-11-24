@@ -47,3 +47,5 @@ update auth flow
 more documentation
 
 add new user settings table
+
+add some demo features
