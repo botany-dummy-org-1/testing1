@@ -45,3 +45,5 @@ use new logo
 update auth flow
 
 more documentation
+
+add new user settings table
