@@ -43,3 +43,5 @@ update tests for new email sending flow
 use new logo
 
 update auth flow
+
+more documentation
