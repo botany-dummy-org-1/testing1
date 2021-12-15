@@ -49,3 +49,5 @@ more documentation
 add new user settings table
 
 add some demo features
+
+remove some demo features
